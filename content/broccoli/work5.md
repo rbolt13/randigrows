@@ -1,31 +1,18 @@
 ---
 date: "2016-11-05T19:53:42+05:30"
 draft: false
-image: https://github.com/rbolt13/randigrows/raw/master/static/img/portfolio/about.jpg
-showonlyimage: true
-title: Name of the work 5
+image: img/portfolio/about.jpg
+showonlyimage: false
+title: Broccoli Update August 16th, 2021
 weight: 5
 ---
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+The broccoli leafs are full of holes from bugs, and are the only plant to be terrorized by the neighborhood animals by having their leaves literally bit clean off. I started these two plants from seeds in the middle of February this year, 2021. The smaller plant was bitten off when it was about a foot or so tall, but has sprouted back where it was bitten off. The second plant has been holding strong and was protected by two very tall lettuce plants until those were sort of destroyed and dug up after the heatwave in July. 
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The broccoli didn't seem to be destroyed by the heatwave as the front end of the garden it sits in is shaded by the house and the neighbors walnut tree part of the day. However there are no signs of broccoli starting to grow. Started broccoli in febuary may have been a premature start date. 
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+![](/img/portfolio/about.jpg)
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Today's Broccoli Take Away  
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+> Protect from small cirtters (potententially with other bigger plants)

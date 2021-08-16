@@ -1,4 +1,4 @@
-baseurl: https://rbolt13.github.io/randigrows/
+baseurl: "https://randigrows.netlify.app/"
 title: Randi Grows
 theme: hugo-creative-portfolio-theme
 languageCode: en-us

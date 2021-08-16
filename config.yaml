@@ -1,0 +1,35 @@
+baseurl: https://example.org/
+title: Creative portfolio
+theme: hugo-creative-portfolio-theme
+languageCode: en-us
+disqusShortname: ''
+googleAnalytics: ''
+params:
+  copyright: '&copy;2016 Your name or company'
+  description: Describe your website
+  email: you@yoursite.com
+  navlinks:
+    - home: yes
+      name: Home
+      url: portfolio/
+    - name: About
+      url: about/
+    - name: Get in touch
+      url: contact/
+  sidebarAbout:
+    - I am a creative illustrator and graphic designer with more than 10 years of
+      experience.
+    - Originally from Toronto, currently based in London.
+  social:
+    email: email@example.com
+    facebook: full page or profile url in facebook
+    github: full profile url in github
+    gitlab: full profile url in gitlab
+    googleplus: full profile url in googleplus
+    instagram: full profile url in instagram
+    linkedin: full profile url in linkedin
+    stackoverflow: full profile url in stackoverflow
+    twitter: full profile url in twitter
+    whatsapp: wa.me service link
+    youtube: full profile url in youtube
+  style: default

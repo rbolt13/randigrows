@@ -1,4 +1,4 @@
-baseurl: "https://randigrows.netlify.app/"
+baseurl: https://randigrows.netlify.app/
 title: Randi Grows
 theme: hugo-creative-portfolio-theme
 languageCode: en-us

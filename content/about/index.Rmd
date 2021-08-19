@@ -1,0 +1,16 @@
+---
+title: About Randi Grows
+author: R package build
+date: '2021-08-19'
+slug: []
+categories: []
+tags:
+  - about
+  - main
+---
+
+![](/img/portfolio/about.jpg)
+
+I am Randi (the blonde cutie on the right), and this is my first functioning blog created using blogdown in [r] August 2021. I started growing cannabis in my windowsill the spring of 2019, and other plants such as tomatoes and basil the following summer of 2020. 
+
+I created this site the summer of 2021 to both learn blogdown in r and track my progress and findings in the garden. Each tab on the left will show posts relating to that item such as post about my tomato plants will be under the tomatoes tab. Content about the overall garden or gardening in general will be in the general garden. 

@@ -1,0 +1,41 @@
+---
+title: Get in touch
+author: Randi Bolt
+date: '2021-08-19'
+slug: []
+categories: []
+tags:
+  - contact
+  - github
+  - arcgis
+---
+
+Like what you see? Have specific questions about my garden or how this blog was made? Send me an email letting me know.
+
+### Email : rbolt@pdx.edu 
+
+```{r, echo = F, message=F}
+library(dplyr)
+library(kableExtra)
+```
+
+And while you're at it check out some of the other projects I created during my undergrad. 
+
+```{r, echo=F}
+contact.urls <- c("https://github.com/rbolt13",
+                  "https://rbolt13.github.io/rsite/index.html",
+                  "https://rbolt13.github.io/Oregon-Grown/")
+Links <- c("Github",
+          "rsite",
+          "Oregon Grown")
+Description <- c("The code for this and all other projects I've made are on Github. It's the best way to see what projects I am currently working on.",
+                 "This is the first website I made using R-Studio and Github. Here I posted projects from Statistics- 341 : Introduction to R, such as : Kobe Hot Hands, Gloabal Fuel Data, and COVID-19.",
+                 "Completed fall term 2020 at Portland Community College, this project uses GIS and Arc Pro to investigate dispensary diversity in Oregon.")
+
+# Data Frame
+y <- data.frame(Links, Description)
+y$Links <- paste0("[", y$Links, "](", contact.urls, ")")
+kable(y) %>%
+  kable_paper("hover", full_width = F) %>%
+  row_spec(0, background = "pink")
+```

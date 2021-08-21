@@ -14,7 +14,7 @@ tags:
   - doc brown
   - egg shells
   - epsom salts
-image: weed/August21/introductions.jpg
+image: weed/Aug21/introductions.jpg
 showonlyimage: false
 ---
 
@@ -51,5 +51,11 @@ Sulfur I have not dealt with yet, and may be caused from planting my plants too 
 ggplot() + geom_emoji("thumbsup", color='darkgreen') + theme_void()
 
 ```
+
+## Doc Brown 
+
+![](images/p3.jpg)
+
+Doc Brown is not lollipopped to the extent of the other plants. It is much shorter than the other plants, and gets much less sun where it is positioned in the yard. I'm hoping it gets more sun in late August, early September. I'm giving it the same treatment as Pegasus with Epsom salts and eggshells. 
 
 Note : All plant names were picked by Tanner.

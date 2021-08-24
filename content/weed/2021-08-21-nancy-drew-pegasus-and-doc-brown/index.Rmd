@@ -49,8 +49,8 @@ Sulfur I have not dealt with yet, and may be caused from planting my plants too 
 
 ```{r, echo=FALSE}
 ggplot() + geom_emoji("thumbsup", color='darkgreen') + theme_void()
-
 ```
+
 
 ## Doc Brown 
 

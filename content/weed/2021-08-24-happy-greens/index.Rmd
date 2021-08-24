@@ -1,0 +1,17 @@
+---
+title: Happy Greens
+author: Randi Bolt
+date: '2021-08-24'
+slug: []
+categories: []
+tags:
+  - weed
+image: weed/Aug21/p2.jpg
+showonlyimage: false
+---
+
+![](images/p1.jpg)
+
+Looking goog after being trimmed. Clearly not the best lighting for all the plants in this spot, will plan better in the future. 
+
+![](images/p2.jpg)

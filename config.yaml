@@ -24,8 +24,8 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - This blog was created the summer of 2021 to track my findings and the progress of plants in my garden. This blog was created in R Studio using blogdown.    
-    - Portland, Oregon.
+    - This blog was created in R Studio using blogdown the summer of 2021 as a way to track the progress of my garden.    
+    - Located in Portland, Oregon.
 social:
   email: rbolt@pdx.edu
   github: https://github.com/rbolt13

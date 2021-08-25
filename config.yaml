@@ -24,8 +24,8 @@ params:
     - name: Get in touch
       url: contact/
   sidebarAbout:
-    - I am an undergraduate mathematics and statistics student at Portland state, who also grows. I created this blog the summer of 2021 to track my findings and the progress of my plants. This blog was created in R Studio using blogdown.    
-    - Originally from and currently based in Portland Oregon.
+    - This blog was created the summer of 2021 to track my findings and the progress of plants in my garden. This blog was created in R Studio using blogdown.    
+    - Portland, Oregon.
 social:
   email: rbolt@pdx.edu
   github: https://github.com/rbolt13

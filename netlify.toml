@@ -12,3 +12,13 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 [context.production]
 [context.production.environment]
 HUGO_ENV = "production"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "blue"

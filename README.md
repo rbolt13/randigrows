@@ -1,2 +1,18 @@
-# [Randi Grows](https://randigrows.netlify.app/about/)
-I am an undergraduate mathematics and statistics student at Portland state, who also grows. I created this blog the summer of 2021 to track my findings and the progress of my plants. This blog was created in R Studio using blogdown.
+# About
+This is my first attempt with blogdown in rstudio. Posts are rare and mostly pictures and updates on my garden. 
+
+View [here](https://randigrows.netlify.app/about/)
+
+# To Do 
+* update about page 
+* cannabis September trim pics
+* update contact page
+
+# Done 
+☑️ Update README
+
+# Sources 
+
+[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+
+[Best Blogdown Hugo Tutorial](https://www.youtube.com/watch?v=9Jqvaoeh1W4)

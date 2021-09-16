@@ -7,6 +7,7 @@ View [here](https://randigrows.netlify.app/about/)
 * update about page 
 * cannabis September trim pics
 * update contact page
+* general garden update
 
 # Done 
 ☑️ Update README
